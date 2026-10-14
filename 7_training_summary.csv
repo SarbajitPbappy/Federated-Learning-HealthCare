@@ -1,0 +1,4 @@
+algorithm,final_accuracy,final_f1,training_time_min
+FedModAlign,0.8894,0.8339,317.55
+FedAvg,0.9163,0.8582,330.39
+FedProx,0.9024,0.9034,542.02
